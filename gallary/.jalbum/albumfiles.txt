@@ -1,0 +1,47 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+thumbnails		1575193369
+profile-image.jpg		1575193369
+173008_145959515465554_7053146_o.jpg		1575193369
+true-mma.jpg		1575193369
+true-mma-3.jpg		1575193369
+true-mma-4.jpg		1575193369
+true-mma-5.jpg		1575193369
+libertycon.jpg		1575193369
+tim-truth.jpg		1575193369
+ginger-nation.jpg		1575193369
+xmma.jpg		1575193369
+ring-girls.jpg		1575193369
+xmma2.jpg		1575193369
+xcc-39.jpg		1575193369
+xcc-39-2.jpg		1575193369
+xcc-39-3.jpg		1575193369
+xcc-39-4.jpg		1575193369
+xcc-39-5.jpg		1575193369
+xcc-39-6.jpg		1575193369
+xcc-39-7.jpg		1575193369
+xcc-41.jpg		1575193369
+xcc-41-2.jpg		1575193369
+xcc-41-3.jpg		1575193369
+xcc-39-8.jpg		1575193369
+gi.jpg		1575193369
+legacy-mma.jpg		1575193369
+legacy-mma-2.jpg		1575193369
+flint-town-fightclub.jpg		1575193369
+computer-frog.jpg		1575193369
+return-to-cage.jpg		1575193369
+return-to-cage-2.jpg		1575193369
+painting.jpg		1575193369
+xcc-41-4.jpg		1575193369
+xcc-41-5.jpg		1575193369
+ponytail.jpg		1575193369
+poster.jpg		1575193369
+xmma3.jpg		1575193369
+xmma4.jpg		1575193369
+poster-2.jpg		1575193369
